@@ -29,6 +29,7 @@ It’s part mood tracker, part roast session, part beginner coding project. You 
 
 ## 🖼️ Sample Run
 🧠 WELCOME TO SELFSCOPE — your Terminal Self Check-In & Identity Profiler.
+
 We'll be collecting highly personal data in the least secure way possible (hehe)
 
 So first things first...who dare come into this system?: 1234 
@@ -38,17 +39,23 @@ LETTERS!!! Letters darling...your name consists of letters
 So first things first...who dare come into this system?: Jack
 
 How old are you, dear?: -3
+
 Hey...correct me if I'm wrong (I'm not) but you've not even been born yet...
 
 How tall are you (in cm)?: 187
+
 Dang, my guyyyy...You better be modelling or in the NBA with this height haha
 
 How are you ACTUALLY feeling today?: over-it
+
 Dang...that makes me and you twin. Why don't we wrap this up and go cry together (digital tears of course)
 
 📊 GENERATING YOUR SELFSCOPE SUMMARY
+
 Name: Jack
+
 Age: -3 years old
+
 Height: 187.0 cm
 
 Thanks for using selfScope, your digital mirror of judgment and a lil support
