@@ -31,7 +31,8 @@ It’s part mood tracker, part roast session, part beginner coding project. You 
 🧠 WELCOME TO SELFSCOPE — your Terminal Self Check-In & Identity Profiler.
 We'll be collecting highly personal data in the least secure way possible (hehe)
 
-So first things first...who dare come into this system?: 1234
+So first things first...who dare come into this system?: 1234 
+
 LETTERS!!! Letters darling...your name consists of letters
 
 So first things first...who dare come into this system?: Jack
