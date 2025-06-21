@@ -44,16 +44,18 @@ if height_input:
         st.warning("Digits only, thanks!")
 
 # 4. Mood
-mood = st.text_input("How are you feeling today?").lower()
+mood = st.text_input("How are you feeling today? (tired, happy, sad, over-it)").lower()
 if mood:
     if mood == "":
         st.write("Numb? Same 😐")
     elif mood == "tired":
         st.write("Go take a nap—or touch some grass.")
+    elif mood == "sad":
+        st.write("Awww sending digital hugs your way!")
     elif mood == "happy":
-        st.write("Love it for you! 😊")
+        st.write("Love it for you! makes one of us lol")
     elif mood == "over-it":
-        st.write("Me too. Digital tears?")
+        st.write(f"Real! Me too {name}, me too :( ")
     else:
         st.write(f"That’s… specific. Noted.")
 
