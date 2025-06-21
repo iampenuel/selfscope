@@ -20,8 +20,8 @@ if age_input:
         if age < 0:
             st.warning("Not born yet? ")
         elif 25 <= age <= 33:
-            st.info("""Dang,hate to break it to you but... ummm you might want to take it easy on your knees.
-            You're old sir/ma'am hehe""")
+            st.info("""Mid-life crisis on the phone...says they want to speak to you 👀 
+            (jk jk hope you have a good middle-aged season!)""")
         elif 75 <= age <= 100:
             st.info("You been around a while huh? Respect! Wish you a beautiful day today lovely elder! Glad you're here")
         else:
