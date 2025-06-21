@@ -60,7 +60,7 @@ if mood:
         st.write("Awww sending digital hugs your way! Sorrows may last all night...but JOY comes in the morning! You got this!")
     elif mood == "happy":
         st.write("Love it for you! makes one of us lol")
-    elif mood == "over it" or "overit:
+    elif mood == "over it" or "overit":
         st.write(f"Real! Me too {name}, me too! We'll be alright! Everything will be fine...trust! ")
     else:
         st.write(f"That’s… specific. Noted.")
