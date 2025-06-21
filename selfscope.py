@@ -78,4 +78,4 @@ if st.button("Generate SelfScope Summary"):
 
 st.write("""This is just a program, and while it can offer some one-sided banter, it cannot replace the support of a real person. 
 If you're going through a tough time, reach out to a trusted friend, family member, or mental health professional. 
-You're not alone! You are loved!""")
+You're not alone! You are loved! JLY!""")
