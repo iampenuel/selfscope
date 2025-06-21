@@ -57,11 +57,11 @@ if mood:
     elif mood == "tired":
         st.write("Go take a nap! You've worked hard! (unless you've been on your phone too long!!)")
     elif mood == "sad":
-        st.write("Awww sending digital hugs your way! You'll be fine!")
+        st.write("Awww sending digital hugs your way! Sorrows may last all night...but JOY comes in the morning! You got this!")
     elif mood == "happy":
         st.write("Love it for you! makes one of us lol")
     elif mood == "over-it":
-        st.write(f"Real! Me too {name}, me too...we'll be alright! ")
+        st.write(f"Real! Me too {name}, me too! We'll be alright! Everything will be fine...trust! ")
     else:
         st.write(f"That’s… specific. Noted.")
 
