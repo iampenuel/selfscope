@@ -1,7 +1,7 @@
 import streamlit as st
 
 # App header
-st.markdown("### 🧠 Welcome to selfScope: Your Terminal Self Check‑In bot")
+st.markdown("### 🦋 Welcome to selfScope: Your Terminal Self Check‑In bot")
 st.write("We'll ask you some semi-personal questions.")
 
 # 1. Name
