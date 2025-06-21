@@ -23,7 +23,7 @@ if age_input:
             st.info("""Dang,hate to break it to you but... ummm you might want to take it easy on your knees.
             You're old sir/ma'am hehe""")
         elif 75 <= age <= 100:
-            st.info("You been around a while huh? Respect! Wish you a beautiful day today lovely elder! Glad you're hear")
+            st.info("You been around a while huh? Respect! Wish you a beautiful day today lovely elder! Glad you're here")
         else:
             st.success(f"You are {age} years old.")
     else:
