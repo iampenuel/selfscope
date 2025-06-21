@@ -10,7 +10,7 @@ if name:
     if not name.isalpha():
         st.warning("Letters only, please!")
     else:
-        st.success(f"Heyo **{name}**! Moving on…")
+        st.success(f"Apparently you're **{name}**... hmm okay '{name}'. Hey :)")
 
 # 2. Age
 age_input = st.text_input("How old are you, dear?:")
