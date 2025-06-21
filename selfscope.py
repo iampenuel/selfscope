@@ -39,7 +39,7 @@ if height_input:
         elif 145 <= height <= 177:
             st.info("""Blessed is the one who doesn't get confused that they are "average height" 
             and accept the FACT that they are short. Yes...YOU are SHORT! and that's okay :)""")
-        elif height > 145:
+        elif height < 145:
             st.warning("…are you even real? 😭")
         else:
             st.info(f"You are **{height}** cm tall!")
