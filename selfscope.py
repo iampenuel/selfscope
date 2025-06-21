@@ -35,7 +35,8 @@ if height_input:
     if height_input.isdigit():
         height = float(height_input)
         if height >= 184:
-            st.success("Dang! you should be modelling or in the NBA! You're tall my guy! (stop smiling...you're tall we get it 👀 )")
+            st.success("""Dang! you should be modelling or in the NBA! You're tall my guy! 
+            (stop smiling...you're tall we get it 👀 )""")
         elif 145 <= height <= 177:
             st.info("""Blessed is the one who doesn't get confused that they are "average height" 
             and accept the FACT that they are short. Yes...YOU are SHORT! and that's okay :)""")
