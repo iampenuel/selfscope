@@ -34,13 +34,15 @@ height_input = st.text_input("How tall are you (cm)?")
 if height_input:
     if height_input.isdigit():
         height = float(height_input)
-        if height >= 186:
+        if height >= 184:
             st.success("Dang! you should be modelling or in the NBA! You're tall my guy! (stop smiling...you're just tall)")
         elif 145 <= height <= 177:
             st.info("""Blessed is the one who doesn't get confused that they are "average height" 
             and accept the FACT that they are short. Yes...YOU are SHORT! and that's okay :)""")
         elif height < 145:
             st.warning("…are you even real? 😭")
+        elif height == 183:
+            st.warning("Okay we get it you're finally 6ft tall...big deal. You're tall I guess 🙄")
         else:
             st.info(f"You are **{height}** cm tall!")
         st.write(f"**Height:** {height} cm")
