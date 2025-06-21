@@ -50,7 +50,7 @@ if height_input:
         st.warning("Digits only, thanks!")
 
 # 4. Mood
-mood = st.text_input("How are you feeling today? (tired, happy, sad, over-it)").lower()
+mood = st.text_input("How are you feeling today? (tired, happy, sad, over it)").lower()
 if mood:
     if mood == "":
         st.write("Numb? Same 😐")
