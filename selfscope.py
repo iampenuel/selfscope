@@ -21,8 +21,7 @@ if age_input:
             st.warning("Not born yet? ")
         elif 25 <= age <= 33:
             st.info("""Dang,hate to break it to you but... ummm you might want to take it easy on your knees.
-            
-                       You're old sir/ma'am hehe""")
+            You're old sir/ma'am hehe""")
         elif 75 <= age <= 100:
             st.info("You been around a while huh? Respect! Wish you a beautiful day today lovely elder! Glad you're hear")
         else:
@@ -37,7 +36,7 @@ if height_input:
         height = float(height_input)
         if height >= 184:
             st.success("""Dang! you should be modelling or in the NBA! You're tall my guy! 
-                       (stop smiling...you're tall we get it 👀 )""")
+            (stop smiling...you're tall we get it 👀 )""")
         elif 145 <= height <= 177:
             st.info("""Blessed is the one who doesn't get confused that they are "average height" 
             and accept the FACT that they are short. Yes...YOU are SHORT! and that's okay :)""")
